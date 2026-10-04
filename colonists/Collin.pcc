@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character>
+	<version>5</version>
+	<mods>Harmony, Core, Royalty, Ideology, Biotech, Anomaly, Odyssey, EdB Prepare Carefully, Biotech Expansion - Core, Biotech Expansion - Mammalia, Biotech Expansion - Mythic, Vanilla Backgrounds Expanded, Vanilla Expanded Framework, Vanilla Factions Expanded - Settlers, Vanilla Factions Expanded - Empire, Vanilla Textures Expanded, Vanilla Ideology Expanded - Anima Theme, Vanilla Helixien Gas Expanded, Vanilla Ideology Expanded - Dryads, Vanilla Furniture Expanded - Architect, Tilled Soil, Vanilla Traits Expanded, Melee Animation, Vanilla Trading Expanded, Vanilla Furniture Expanded, Vanilla Furniture Expanded - Power, Vanilla Furniture Expanded - Production, Vanilla Textures Expanded - Variations, Vanilla Temperature Expanded, Vanilla Weapons Expanded - Tribal, Vanilla Achievements Expanded, Vanilla Weapons Expanded, Vanilla Weapons Expanded - Quickdraw, Vanilla Weapons Expanded - Non-Lethal, Vanilla Weapons Expanded - Makeshift, Vanilla Weapons Expanded - Laser, Vanilla Weapons Expanded - Heavy Weapons, Vanilla Weapons Expanded - Grenades, Vanilla Weapons Expanded - Coilguns, Vanilla Weapons Expanded - Frontier, Vanilla Weapons Expanded - Bioferrite, Vehicle Framework, Vanilla Vehicles Expanded, Vanilla Vehicles Expanded - Upgrades, Vanilla Vehicles Expanded - Tier 3, Vanilla Ideology Expanded - Hats and Rags, Vanilla Ideology Expanded - Icons and Symbols, Vanilla Cooking Expanded, Vanilla Fishing Expanded, Vanilla Books Expanded, Vanilla Ideology Expanded - Memes and Structures, Vanilla Ideology Expanded - Relics and Artifacts, Vanilla Ideology Expanded - Sophian Style, Vanilla Ideology Expanded - Splits and Schisms, Vanilla Nutrient Paste Expanded, Vanilla Outposts Expanded, Vanilla Persona Weapons Expanded, Vanilla Plants Expanded, Vanilla Plants Expanded - More Plants, Vanilla Plants Expanded - Mushrooms, Vanilla Plants Expanded - Succulents, Vanilla Psycasts Expanded, Vanilla Psycasts Expanded - Hemosage, Vanilla Psycasts Expanded - Puppeteer, Vanilla Quests Expanded - Cryptoforge, Vanilla Quests Expanded - The Generator, Vanilla Races Expanded - Android, Vanilla Races Expanded - Archon, Vanilla Races Expanded - Custom Icons, Vanilla Races Expanded - Fungoid, Vanilla Races Expanded - Genie, Vanilla Races Expanded - Highmate, Vanilla Races Expanded - Hussar, Vanilla Factions Expanded - Pirates, Vanilla Races Expanded - Insector, Vanilla Races Expanded - Lycanthrope, Vanilla Races Expanded - Phytokin, Vanilla Races Expanded - Pigskin, Vanilla Races Expanded - Sanguophage, Vanilla Races Expanded - Saurid, Vanilla Races Expanded - Waster, Vanilla Recycling Expanded, Vanilla Skills Expanded, Vanilla Social Interactions Expanded, Vanilla Hair Expanded, Vanilla Chemfuel Expanded, Vanilla Genetics Expanded, Vanilla Furniture Expanded - Spacer Module, Vanilla Furniture Expanded - Security, Vanilla Animals Expanded — Endangered, Vanilla Animals Expanded — Royal Animals, Vanilla Factions Expanded - Deserters, Vanilla Factions Expanded - Classical, Vanilla Furniture Expanded - Props and Decor, Vanilla Furniture Expanded - Medical Module, Vanilla Furniture Expanded - Farming, Vanilla Furniture Expanded - Art, Vanilla Fishing Expanded - Fishing Treasures AddOn, Vanilla Animals Expanded, Vanilla Events Expanded, Vanilla Cooking Expanded - Sushi, Vanilla Cooking Expanded - Stews, Vanilla Cooking Expanded - Haute, Vanilla Brewing Expanded, Vanilla Brewing Expanded - Coffees and Teas, Vanilla Base Generation Expanded, Vanilla Backstories Expanded, Vanilla Aspirations Expanded, Vanilla Armour Expanded, Vanilla Apparel Expanded — Accessories, Vanilla Apparel Expanded and Vanilla Animals Expanded — Waste Animals</mods>
+	<pawn>
+		<id>a0413a27-47ec-4a89-bd83-fd122142f29d</id>
+		<type>Colony</type>
+		<faction IsNull="True" />
+		<pawnKindDef>Colonist</pawnKindDef>
+		<mutant IsNull="True" />
+		<gender>Male</gender>
+		<childhood>AwkwardNerd48</childhood>
+		<adulthood>Philosopher97</adulthood>
+		<traits>
+			<li>
+				<def>Abrasive</def>
+			</li>
+			<li>
+				<def>TooSmart</def>
+			</li>
+			<li>
+				<def>Industriousness</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Neurotic</def>
+				<degree>2</degree>
+			</li>
+		</traits>
+		<skinColor>RGBA(0.976, 0.859, 0.647, 1.000)</skinColor>
+		<melanin>0</melanin>
+		<bodyType>Male</bodyType>
+		<headType>Male_AveragePointy</headType>
+		<hairDef>Snazzy</hairDef>
+		<hairColor>RGBA(0.353, 0.227, 0.125, 1.000)</hairColor>
+		<beard>NoBeard</beard>
+		<faceTattoo>NoTattoo_Face</faceTattoo>
+		<bodyTattoo>NoTattoo_Body</bodyTattoo>
+		<nameType>Triple</nameType>
+		<firstName>John</firstName>
+		<nickName>Collin</nickName>
+		<lastName>(Kirk)patrick</lastName>
+		<favoriteColorDef>DarkSapphire</favoriteColorDef>
+		<biologicalAgeInTicks>80760000</biologicalAgeInTicks>
+		<chronologicalAgeInTicks>80760000</chronologicalAgeInTicks>
+		<skills>
+			<li>
+				<name>Shooting</name>
+				<value>10</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Melee</name>
+				<value>10</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Construction</name>
+				<value>2</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Mining</name>
+				<value>2</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Cooking</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Plants</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Animals</name>
+				<value>2</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Crafting</name>
+				<value>5</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Artistic</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Medicine</name>
+				<value>2</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Social</name>
+				<value>10</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Intellectual</name>
+				<value>11</value>
+				<passion>None</passion>
+			</li>
+		</skills>
+		<apparel>
+			<li>
+				<apparel>Apparel_BasicShirt</apparel>
+				<stuff>Cloth</stuff>
+				<quality>Normal</quality>
+				<hitPoints>1</hitPoints>
+			</li>
+			<li>
+				<apparel>Apparel_Pants</apparel>
+				<stuff>Cloth</stuff>
+				<quality>Normal</quality>
+				<hitPoints>1</hitPoints>
+			</li>
+		</apparel>
+		<ideo>
+			<certainty>0.85</certainty>
+			<sameAsColony>True</sameAsColony>
+		</ideo>
+		<genes>
+			<xenotypeDef>Baseliner</xenotypeDef>
+			<endogenes>
+				<li>Skin_Melanin5</li>
+				<li>Hair_DarkBrown</li>
+			</endogenes>
+			<xenogenes />
+			<endogeneRecords>
+				<li>
+					<def>Skin_Melanin5</def>
+				</li>
+				<li>
+					<def>Hair_DarkBrown</def>
+				</li>
+			</endogeneRecords>
+			<xenogeneRecords />
+		</genes>
+		<abilities />
+		<possessions IsNull="True" />
+		<titles IsNull="True" />
+		<otherValues />
+		<implants />
+		<injuries />
+		<hediffs IsNull="True" />
+	</pawn>
+</character>

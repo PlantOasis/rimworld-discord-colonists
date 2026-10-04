@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character>
+	<version>5</version>
+	<mods>Harmony, RimBridge, RimBridge: Steward, Core, Royalty, Ideology, Biotech, Anomaly, Odyssey and EdB Prepare Carefully</mods>
+	<pawn>
+		<id>46229fde-299d-46e2-9200-f23f6d935d25</id>
+		<type>Colony</type>
+		<faction IsNull="True" />
+		<pawnKindDef>Colonist</pawnKindDef>
+		<mutant IsNull="True" />
+		<gender>Male</gender>
+		<childhood>SpaceNerd97</childhood>
+		<adulthood>AIProgrammer22</adulthood>
+		<traits>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Delicate</def>
+			</li>
+			<li>
+				<def>NightOwl</def>
+			</li>
+			<li>
+				<def>SpeedOffset</def>
+				<degree>2</degree>
+			</li>
+		</traits>
+		<skinColor>RGBA(1.000, 0.937, 0.741, 1.000)</skinColor>
+		<melanin>0</melanin>
+		<bodyType>Thin</bodyType>
+		<headType>Male_NarrowNormal</headType>
+		<hairDef>Keeper</hairDef>
+		<hairColor>RGBA(0.353, 0.227, 0.125, 1.000)</hairColor>
+		<beard>NoBeard</beard>
+		<faceTattoo>NoTattoo_Face</faceTattoo>
+		<bodyTattoo>NoTattoo_Body</bodyTattoo>
+		<nameType>Triple</nameType>
+		<firstName>Nate</firstName>
+		<nickName>Nate</nickName>
+		<lastName>Wolffe</lastName>
+		<biologicalAgeInTicks>88080000</biologicalAgeInTicks>
+		<chronologicalAgeInTicks>9829680000</chronologicalAgeInTicks>
+		<skills>
+			<li>
+				<name>Shooting</name>
+				<value>7</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Melee</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Construction</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Mining</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Cooking</name>
+				<value>6</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Plants</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Animals</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Crafting</name>
+				<value>8</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Artistic</name>
+				<value>6</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Medicine</name>
+				<value>8</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Social</name>
+				<value>8</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Intellectual</name>
+				<value>11</value>
+				<passion>Major</passion>
+			</li>
+		</skills>
+		<apparel>
+			<li>
+				<apparel>Apparel_BasicShirt</apparel>
+				<stuff>Cloth</stuff>
+				<quality>Normal</quality>
+				<hitPoints>1</hitPoints>
+			</li>
+			<li>
+				<apparel>Apparel_Pants</apparel>
+				<stuff>Cloth</stuff>
+				<quality>Normal</quality>
+				<hitPoints>1</hitPoints>
+			</li>
+		</apparel>
+		<ideo>
+			<certainty>0.85</certainty>
+			<sameAsColony>True</sameAsColony>
+		</ideo>
+		<genes>
+			<xenotypeDef>Baseliner</xenotypeDef>
+			<endogenes>
+				<li>Skin_Melanin4</li>
+				<li>Hair_DarkBrown</li>
+			</endogenes>
+			<xenogenes />
+			<endogeneRecords>
+				<li>
+					<def>Skin_Melanin4</def>
+				</li>
+				<li>
+					<def>Hair_DarkBrown</def>
+				</li>
+			</endogeneRecords>
+			<xenogeneRecords />
+		</genes>
+		<abilities />
+		<possessions IsNull="True" />
+		<titles IsNull="True" />
+		<otherValues />
+		<implants />
+		<injuries />
+		<hediffs IsNull="True" />
+	</pawn>
+</character>

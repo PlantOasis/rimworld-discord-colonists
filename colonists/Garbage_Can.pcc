@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character>
+	<version>5</version>
+	<mods>Harmony, RimBridge, RimBridge: Steward, Core, Royalty, Ideology, Biotech, Anomaly, Odyssey and EdB Prepare Carefully</mods>
+	<pawn>
+		<id>504ae027-c38d-4224-ad7b-107e2ff2fc95</id>
+		<type>Colony</type>
+		<faction IsNull="True" />
+		<pawnKindDef>Colonist</pawnKindDef>
+		<mutant IsNull="True" />
+		<gender>Male</gender>
+		<childhood>QuietNerd97</childhood>
+		<adulthood>MechanicsEngineer64</adulthood>
+		<traits>
+			<li>
+				<def>PsychicSensitivity</def>
+				<degree>-1</degree>
+			</li>
+			<li>
+				<def>TooSmart</def>
+			</li>
+			<li>
+				<def>Industriousness</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Transhumanist</def>
+			</li>
+			<li>
+				<def>Bisexual</def>
+			</li>
+		</traits>
+		<skinColor>RGBA(1.000, 0.937, 0.741, 1.000)</skinColor>
+		<melanin>0</melanin>
+		<bodyType>Male</bodyType>
+		<headType>Male_AverageNormal</headType>
+		<hairDef>Sticky</hairDef>
+		<hairColor>RGBA(0.353, 0.227, 0.125, 1.000)</hairColor>
+		<beard>Full</beard>
+		<faceTattoo>NoTattoo_Face</faceTattoo>
+		<bodyTattoo>NoTattoo_Body</bodyTattoo>
+		<nameType>Triple</nameType>
+		<firstName>Logan</firstName>
+		<nickName>Garbage Can</nickName>
+		<lastName>Killian</lastName>
+		<favoriteColorDef>Sapphire</favoriteColorDef>
+		<biologicalAgeInTicks>77820000</biologicalAgeInTicks>
+		<chronologicalAgeInTicks>77820000</chronologicalAgeInTicks>
+		<skills>
+			<li>
+				<name>Shooting</name>
+				<value>7</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Melee</name>
+				<value>8</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Construction</name>
+				<value>4</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Mining</name>
+				<value>6</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Cooking</name>
+				<value>4</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Plants</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Animals</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Crafting</name>
+				<value>9</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Artistic</name>
+				<value>5</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Medicine</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Social</name>
+				<value>5</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Intellectual</name>
+				<value>11</value>
+				<passion>Minor</passion>
+			</li>
+		</skills>
+		<apparel>
+			<li>
+				<apparel>Apparel_BasicShirt</apparel>
+				<stuff>Cloth</stuff>
+				<quality>Normal</quality>
+				<hitPoints>1</hitPoints>
+			</li>
+			<li>
+				<apparel>Apparel_Pants</apparel>
+				<stuff>Cloth</stuff>
+				<quality>Normal</quality>
+				<hitPoints>1</hitPoints>
+			</li>
+		</apparel>
+		<ideo>
+			<certainty>0.85</certainty>
+			<sameAsColony>True</sameAsColony>
+		</ideo>
+		<genes>
+			<xenotypeDef>Baseliner</xenotypeDef>
+			<endogenes>
+				<li>Skin_Melanin4</li>
+				<li>Hair_DarkBrown</li>
+			</endogenes>
+			<xenogenes />
+			<endogeneRecords>
+				<li>
+					<def>Skin_Melanin4</def>
+				</li>
+				<li>
+					<def>Hair_DarkBrown</def>
+				</li>
+			</endogeneRecords>
+			<xenogeneRecords />
+		</genes>
+		<abilities />
+		<possessions IsNull="True" />
+		<titles IsNull="True" />
+		<otherValues />
+		<implants />
+		<injuries />
+		<hediffs IsNull="True" />
+	</pawn>
+</character>

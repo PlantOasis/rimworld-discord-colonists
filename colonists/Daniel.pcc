@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character>
+	<version>5</version>
+	<mods>Harmony, RimBridge, RimBridge: Steward, Core, Royalty, Ideology, Biotech, Anomaly, Odyssey and EdB Prepare Carefully</mods>
+	<pawn>
+		<id>7f4ac44e-b662-4ce1-aa20-335739645465</id>
+		<type>Colony</type>
+		<faction IsNull="True" />
+		<pawnKindDef>Colonist</pawnKindDef>
+		<mutant IsNull="True" />
+		<gender>Male</gender>
+		<childhood>TraumatizedYouth87</childhood>
+		<adulthood>CorporateManager76</adulthood>
+		<traits>
+			<li>
+				<def>Nerves</def>
+				<degree>2</degree>
+			</li>
+			<li>
+				<def>NaturalMood</def>
+				<degree>-2</degree>
+			</li>
+			<li>
+				<def>DrugDesire</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Greedy</def>
+			</li>
+		</traits>
+		<skinColor>RGBA(1.000, 0.937, 0.788, 1.000)</skinColor>
+		<melanin>0</melanin>
+		<bodyType>Male</bodyType>
+		<headType>Male_AverageNormal</headType>
+		<hairDef>Keeper</hairDef>
+		<hairColor>RGBA(0.133, 0.247, 0.890, 1.000)</hairColor>
+		<beard>NoBeard</beard>
+		<faceTattoo>NoTattoo_Face</faceTattoo>
+		<bodyTattoo>NoTattoo_Body</bodyTattoo>
+		<nameType>Triple</nameType>
+		<firstName>Daniel</firstName>
+		<nickName>Daniel</nickName>
+		<lastName>Perez</lastName>
+		<favoriteColorDef>DarkMauve</favoriteColorDef>
+		<biologicalAgeInTicks>73680000</biologicalAgeInTicks>
+		<chronologicalAgeInTicks>102480000</chronologicalAgeInTicks>
+		<skills>
+			<li>
+				<name>Shooting</name>
+				<value>7</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Melee</name>
+				<value>5</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Construction</name>
+				<value>1</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Mining</name>
+				<value>2</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Cooking</name>
+				<value>8</value>
+				<passion>Major</passion>
+			</li>
+			<li>
+				<name>Plants</name>
+				<value>6</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Animals</name>
+				<value>5</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Crafting</name>
+				<value>4</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Artistic</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Medicine</name>
+				<value>15</value>
+				<passion>Major</passion>
+			</li>
+			<li>
+				<name>Social</name>
+				<value>1</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Intellectual</name>
+				<value>4</value>
+				<passion>None</passion>
+			</li>
+		</skills>
+		<apparel>
+			<li>
+				<apparel>Apparel_BasicShirt</apparel>
+				<stuff>Cloth</stuff>
+				<quality>Normal</quality>
+				<hitPoints>1</hitPoints>
+			</li>
+			<li>
+				<apparel>Apparel_Pants</apparel>
+				<stuff>Cloth</stuff>
+				<quality>Normal</quality>
+				<hitPoints>1</hitPoints>
+			</li>
+		</apparel>
+		<ideo>
+			<certainty>0.85</certainty>
+			<sameAsColony>True</sameAsColony>
+		</ideo>
+		<genes>
+			<xenotypeDef>Baseliner</xenotypeDef>
+			<endogenes>
+				<li>Skin_Melanin3</li>
+				<li>Hair_LightBlue</li>
+			</endogenes>
+			<xenogenes />
+			<endogeneRecords>
+				<li>
+					<def>Skin_Melanin3</def>
+				</li>
+				<li>
+					<def>Hair_LightBlue</def>
+				</li>
+			</endogeneRecords>
+			<xenogeneRecords />
+		</genes>
+		<abilities />
+		<possessions IsNull="True" />
+		<titles IsNull="True" />
+		<otherValues />
+		<implants />
+		<injuries />
+		<hediffs IsNull="True" />
+	</pawn>
+</character>

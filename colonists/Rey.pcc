@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character>
+	<version>5</version>
+	<mods>Harmony, RimBridge, RimBridge: Steward, Core, Royalty, Ideology, Biotech, Anomaly, Odyssey and EdB Prepare Carefully</mods>
+	<pawn>
+		<id>0e2a5220-8b77-4f86-966a-8a1444655ab4</id>
+		<type>Colony</type>
+		<faction IsNull="True" />
+		<pawnKindDef>Colonist</pawnKindDef>
+		<mutant IsNull="True" />
+		<gender>Male</gender>
+		<childhood>MilitantChild49</childhood>
+		<adulthood>CorporateManager76</adulthood>
+		<traits>
+			<li>
+				<def>Industriousness</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>QuickSleeper</def>
+			</li>
+			<li>
+				<def>ShootingAccuracy</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Nerves</def>
+				<degree>1</degree>
+			</li>
+		</traits>
+		<skinColor>RGBA(0.894, 0.620, 0.353, 1.000)</skinColor>
+		<melanin>0</melanin>
+		<bodyType>Male</bodyType>
+		<headType>Male_AverageWide</headType>
+		<hairDef>Messy</hairDef>
+		<hairColor>RGBA(0.098, 0.098, 0.098, 1.000)</hairColor>
+		<beard>Stubble</beard>
+		<faceTattoo>NoTattoo_Face</faceTattoo>
+		<bodyTattoo>NoTattoo_Body</bodyTattoo>
+		<nameType>Triple</nameType>
+		<firstName>Rey</firstName>
+		<nickName>Rey</nickName>
+		<lastName>Perez</lastName>
+		<biologicalAgeInTicks>83940000</biologicalAgeInTicks>
+		<chronologicalAgeInTicks>83940000</chronologicalAgeInTicks>
+		<skills>
+			<li>
+				<name>Shooting</name>
+				<value>5</value>
+				<passion>Major</passion>
+			</li>
+			<li>
+				<name>Melee</name>
+				<value>7</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Construction</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Mining</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Cooking</name>
+				<value>10</value>
+				<passion>Major</passion>
+			</li>
+			<li>
+				<name>Plants</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Animals</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Crafting</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Artistic</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Medicine</name>
+				<value>8</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Social</name>
+				<value>8</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Intellectual</name>
+				<value>4</value>
+				<passion>None</passion>
+			</li>
+		</skills>
+		<apparel>
+			<li>
+				<apparel>Apparel_BasicShirt</apparel>
+				<stuff>Cloth</stuff>
+				<quality>Normal</quality>
+				<hitPoints>1</hitPoints>
+			</li>
+			<li>
+				<apparel>Apparel_Pants</apparel>
+				<stuff>Cloth</stuff>
+				<quality>Normal</quality>
+				<hitPoints>1</hitPoints>
+			</li>
+		</apparel>
+		<ideo>
+			<certainty>0.85</certainty>
+			<sameAsColony>True</sameAsColony>
+		</ideo>
+		<genes>
+			<xenotypeDef>Baseliner</xenotypeDef>
+			<endogenes>
+				<li>Skin_Melanin7</li>
+				<li>Hair_InkBlack</li>
+			</endogenes>
+			<xenogenes />
+			<endogeneRecords>
+				<li>
+					<def>Skin_Melanin7</def>
+				</li>
+				<li>
+					<def>Hair_InkBlack</def>
+				</li>
+			</endogeneRecords>
+			<xenogeneRecords />
+		</genes>
+		<abilities />
+		<possessions IsNull="True" />
+		<titles IsNull="True" />
+		<otherValues />
+		<implants />
+		<injuries />
+		<hediffs IsNull="True" />
+	</pawn>
+</character>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character>
+	<version>5</version>
+	<mods>Harmony, RimBridge, RimBridge: Steward, Core, Royalty, Ideology, Biotech, Anomaly, Odyssey and EdB Prepare Carefully</mods>
+	<pawn>
+		<id>60a22dd1-b5e2-40e7-bf10-769e6cf8c63a</id>
+		<type>Colony</type>
+		<faction IsNull="True" />
+		<pawnKindDef>Colonist</pawnKindDef>
+		<mutant IsNull="True" />
+		<gender>Male</gender>
+		<childhood>Gymnast48</childhood>
+		<adulthood>Butcher40</adulthood>
+		<traits>
+			<li>
+				<def>Industriousness</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>Nerves</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Immunity</def>
+				<degree>-1</degree>
+			</li>
+		</traits>
+		<skinColor>RGBA(0.976, 0.859, 0.647, 1.000)</skinColor>
+		<melanin>0</melanin>
+		<bodyType>Male</bodyType>
+		<headType>Male_AveragePointy</headType>
+		<hairDef>BriefPonytail</hairDef>
+		<hairColor>RGBA(0.220, 0.141, 0.071, 1.000)</hairColor>
+		<beard>Moustache</beard>
+		<faceTattoo>NoTattoo_Face</faceTattoo>
+		<bodyTattoo>NoTattoo_Body</bodyTattoo>
+		<nameType>Triple</nameType>
+		<firstName>austin</firstName>
+		<nickName>big dick</nickName>
+		<lastName>lynch</lastName>
+		<favoriteColorDef>Orange</favoriteColorDef>
+		<biologicalAgeInTicks>75060000</biologicalAgeInTicks>
+		<chronologicalAgeInTicks>75060000</chronologicalAgeInTicks>
+		<skills>
+			<li>
+				<name>Shooting</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Melee</name>
+				<value>11</value>
+				<passion>Major</passion>
+			</li>
+			<li>
+				<name>Construction</name>
+				<value>8</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Mining</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Cooking</name>
+				<value>8</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Plants</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Animals</name>
+				<value>9</value>
+				<passion>Major</passion>
+			</li>
+			<li>
+				<name>Crafting</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Artistic</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Medicine</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Social</name>
+				<value>4</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Intellectual</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+		</skills>
+		<apparel>
+			<li>
+				<apparel>Apparel_BasicShirt</apparel>
+				<stuff>Cloth</stuff>
+				<quality>Normal</quality>
+				<hitPoints>1</hitPoints>
+			</li>
+			<li>
+				<apparel>Apparel_Pants</apparel>
+				<stuff>Cloth</stuff>
+				<quality>Normal</quality>
+				<hitPoints>1</hitPoints>
+			</li>
+		</apparel>
+		<ideo>
+			<certainty>0.85</certainty>
+			<sameAsColony>True</sameAsColony>
+		</ideo>
+		<genes>
+			<xenotypeDef>Baseliner</xenotypeDef>
+			<endogenes>
+				<li>Skin_Melanin5</li>
+				<li>Hair_DarkSaturatedReddish</li>
+			</endogenes>
+			<xenogenes />
+			<endogeneRecords>
+				<li>
+					<def>Skin_Melanin5</def>
+				</li>
+				<li>
+					<def>Hair_DarkSaturatedReddish</def>
+				</li>
+			</endogeneRecords>
+			<xenogeneRecords />
+		</genes>
+		<abilities />
+		<possessions IsNull="True" />
+		<titles IsNull="True" />
+		<otherValues />
+		<implants />
+		<injuries />
+		<hediffs IsNull="True" />
+	</pawn>
+</character>
